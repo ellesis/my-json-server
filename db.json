@@ -2,6 +2,11 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
+  "cars": [
+    { "make": "Toyota", "model": "Celica", "price": 35000 },
+    { "make": "Ford", "model": "Mondeo", "price": 32000 },
+    { "make": "Porsche", "model": "Boxter", "price": 72000 }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
